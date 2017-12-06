@@ -1,0 +1,28 @@
+{
+  "name": "inject-tinymce-dev",
+  "description": "INJECT Tools for TinyMCE",
+  "main": [
+    "dist/inject-plugin.js"
+  ],
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "inject",
+    "tinymce"
+  ],
+  "authors": [
+    "INJECT <inject@inject.eu>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "circle.yml",
+    "vendor",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "private": true
+}
